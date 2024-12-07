@@ -89,7 +89,7 @@ print("Primes up to", N, ":", simple_sieve(N))
 ```
 
 ### Code Implementation in Java
-```
+```java
 import java.util.Scanner;
 
 public class sieve {
@@ -132,7 +132,7 @@ public class sieve {
 ```
 ### Code Implementation in C++
 
-```
+```cpp
 #include <iostream>
 #include <vector>
 using namespace std;
