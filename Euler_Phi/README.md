@@ -1,6 +1,4 @@
-Here’s the implementation and explanation of **Euler's Totient Function** formatted for a `README.md` file:
 
----
 
 # Euler's Totient Function (\(phi(n)))
 
