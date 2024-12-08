@@ -62,6 +62,9 @@ public class Euler_Phi {
 ```
 ### Java (Better Solution)
 
+![image](https://github.com/user-attachments/assets/1fc6dad7-456e-4e59-a931-e38df036bc1f)
+
+
 ```java
 // [(Better Solution)]
 
